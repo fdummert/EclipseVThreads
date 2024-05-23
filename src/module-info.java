@@ -1,0 +1,8 @@
+/**
+ * $Id$
+ */
+/**
+ * 
+ */
+module EclipseVThreads {
+}
